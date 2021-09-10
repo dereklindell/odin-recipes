@@ -1,0 +1,1 @@
+This recipe's project has been created to demonstrate my understanding of HTML basics and that I can create a navigatable and multi-page website.
